@@ -1,0 +1,2 @@
+# smartcheckinn
+worpress custom theme
