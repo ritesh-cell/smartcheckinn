@@ -1,0 +1,16 @@
+          WP DETAILS
+----------------------------------
+
+Database name :smartcheckinn_db
+Username :root
+Password :
+
+
+Sitetitle:SmartcheckInn
+username :Admin
+Pasword: Admin@123
+email: ritesh.info.99@gmail.com
+
+
+http://127.0.0.1/SmartcheckInn/wp-login.php
+http://127.0.0.1/SmartcheckInn/
